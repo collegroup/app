@@ -1,10 +1,7 @@
-<div class="jumbotron">
-  <h2 style="text-align: center; margin-top: 10%; font-family: Times; font-size: 20pt">Collé Group, Inc.</h2>
-  <p class="lead"></p>
-</div>
+<h1>Collé Group, Inc.</h1>
 
-<div class="row marketing">
-  <!-- <div class="col-lg-6">
+<!-- <div class="row marketing" style="height: 100px">
+  <div class="col-lg-6">
     <h4>Resources</h4>
     <ul>
       <li>
@@ -16,9 +13,9 @@
       <li>
         <a href="https://github.com/phoenixframework/phoenix">Source</a>
       </li>
-    </ul> -->
+    </ul>
 </div>
-
+-->
   <!-- <div class="col-lg-6">
     <h4>Help</h4>
     <ul>
